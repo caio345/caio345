@@ -3,7 +3,7 @@
 - 🌱 me tornarei um grande programador front-end
 - 💞️ Gosto muito de programar
 - 📖 sou formado como analista de sistemas
-- 💻 programo em java-script , HTML e CSS 
+- 💻 programo em java-script , HTML e CSS , PHP
 - ✉️ contrate-me pelo email: caiocesar2003@outlook.com.br
 
 <div>
