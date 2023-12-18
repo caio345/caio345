@@ -6,18 +6,19 @@
 - 💻 programo em java-script , HTML e CSS , PHP
 - ✉️ contrate-me pelo email: caiocesar2003@outlook.com.br
 
-<div>
-  <a href="https://github.com/caio345">
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=caio345&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio345&layout=compact&langs_langs_count16&theme=dracula"/>
-  </div>  
-
-  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caio345&theme=default)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caio345&theme=default)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caio345&theme=default)
+
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caio345&theme=default)
+
  
- 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caio345&theme=default&utcOffset=8)
 
  
   
