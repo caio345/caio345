@@ -28,11 +28,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caio345&theme=default&utcOffset=8)
  
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>" alt="Imagem">
-</p>
 
+
+<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
  
 
 
