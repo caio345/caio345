@@ -30,7 +30,7 @@
  
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/caio345/caio345/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>" alt="Imagem">
 </p>
 
  
