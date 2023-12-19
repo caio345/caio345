@@ -5,7 +5,7 @@
 </div>
 
 <!-- Presentation -->
-<p>
+
 - 👋 oi, eu sou caio césar
 - 👀 Estou a procura de uma vaga front-end
 - 🌱 me tornarei um grande programador front-end
@@ -14,7 +14,7 @@
 - 💻 programo em java-script , HTML e CSS , PHP
 - ✉️ contrate-me pelo email: caiocesar2003@outlook.com.br
 
-</p>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caio345theme=default)
 
