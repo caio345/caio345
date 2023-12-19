@@ -8,7 +8,7 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=caio345&show_icons=true&theme=gotham)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caio345&theme=default)
