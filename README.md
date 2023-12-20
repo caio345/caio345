@@ -2,11 +2,22 @@
 # 💫 About Me:
 <br>- 👋 oi, eu sou caio césar<br>- 👀 Estou a procura de uma vaga front-end<br>- 🌱 me tornarei um grande programador front-end<br>- 💞️ Gosto muito de programar<br>- 📖 sou formado como analista de sistemas<br>- 💻 programo em java-script , HTML e CSS , PHP<br>- ✉️ contrate-me pelo email: caiocesar2003@outlook.com.br
 
-<div>
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caio345&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caio345&theme=default)
+
+
+
+ <div> 
+ 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=caio345&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio345&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+ 
+
 <br>
 
 <div  align="center"> 
@@ -21,17 +32,9 @@
   
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "">
-      <img width="25" src="instagram.png">
-    </a>
- </div>  
+ 
+   
+  
 
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
